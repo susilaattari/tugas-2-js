@@ -1,7 +1,7 @@
 let number = 2;
 let string = "tugas Javasript niomic";
 let tugasSelesai = true;
-let kosong = nul;
+let kosong = null;
 let bahasaPemrogramman = ['java','php','javascript','C++','python'];
 
 console.log(`No    : ${number}`);
